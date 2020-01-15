@@ -249,7 +249,7 @@ defaults:
   # _Notes
   - scope:
       path: ""
-      type: _notes
+      type: notes
     values:
       layout: single
       author_profile: true
