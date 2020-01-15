@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "First year master student in EECS @ Umich, and USC 19'"
   location         : "Ann Arbor, MI"
-  employer         :
+  CV               : "http://yunj1e.github.io/files/Yunjie-cv.pdf"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wyunjie@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -191,6 +191,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+
 # Defaults
 defaults:
   # _posts
@@ -238,15 +239,8 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
-  # _Notes
+
+  _Notes
   - scope:
       path: ""
       type: notes
