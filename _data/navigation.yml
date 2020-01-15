@@ -2,6 +2,7 @@
 main:
   - title: "Notes"
     url: /notes/
+    
   - title: "Publications"
     url: /publications/
 
