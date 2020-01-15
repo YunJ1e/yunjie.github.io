@@ -240,7 +240,7 @@ defaults:
   #     share: true
   #     comment: true
 
-  _Notes
+  # _Notes
   - scope:
       path: ""
       type: notes
