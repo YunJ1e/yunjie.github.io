@@ -81,10 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yunjie Wang"
-  avatar           : "profile.png"
+  avatar           : "Childhood.jpg"
   bio              : "First year master student in EECS @ Umich, and USC 19'"
   location         : "Ann Arbor, MI"
-  CV               : "http://yunj1e.github.io/files/Yunjie-cv.pdf"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "wyunjie@umich.edu"
