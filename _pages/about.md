@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Yunjie's personal page. I will use this page to upload the class notes(pdf) and other fun stuff. 
+This is Yunjie's personal page. I will briefly use this page to upload the class notes(pdf) and other fun stuff. 
 
 This page is currently under construction and built based on the amazing academicpages template. The main function right now is to push myself to update notes and homework frequently.
 
-Feel free to reach out. And I will update my contact info and social media on this page.
+Feel free to reach out. And I will update my contact info and social media on this page once the website works properly.
 
 Peace :)
