@@ -189,6 +189,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
+  literatures:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,15 @@ defaults:
   - scope:
       path: ""
       type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _Literatures
+  - scope:
+      path: ""
+      type: literatures
     values:
       layout: single
       author_profile: true
